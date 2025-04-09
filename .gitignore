@@ -1,6 +1,6 @@
 target
 *.iws
 *.iml
-.iml
+.eml
 *.ipr
 .idea
